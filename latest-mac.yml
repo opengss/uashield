@@ -1,0 +1,11 @@
+version: 1.0.1
+files:
+  - url: UA-Cyber-SHIELD-1.0.1.dmg
+    sha512: fFSXobOi3Rd1qs+wcOcybaAhhtDE4SP2QNABPPpXzIWBXPTakzzJDwOFuODljFi0KcDfZAQoK9qYrQgg+OD1YQ==
+    size: 95406046
+  - url: UA-Cyber-SHIELD-1.0.1-arm64.dmg
+    sha512: aIiah2VhPlEe7w4AlblSLZeDmxlAYPRaCPwdqqiaWBURYK7g61ph0XmMcK8pDomnUiPVUS7vaK8/FM7D0bWybQ==
+    size: 98284199
+path: UA-Cyber-SHIELD-1.0.1.dmg
+sha512: fFSXobOi3Rd1qs+wcOcybaAhhtDE4SP2QNABPPpXzIWBXPTakzzJDwOFuODljFi0KcDfZAQoK9qYrQgg+OD1YQ==
+releaseDate: '2022-04-17T13:21:04.534Z'
